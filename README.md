@@ -1,4 +1,4 @@
-# Plane Self-Hosted in Kubernetes
+# Plane Self-Hosted in KinD (Kubernetes in Docker)
 
 Here are a few notes on how to get Plane Community Edition self-hosted running in a KinD (Kubernetes in Docker) environment - no Helm required.
 
